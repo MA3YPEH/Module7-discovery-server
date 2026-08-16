@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>aston</groupId>
-    <artifactId>Module7-discovery-server</artifactId>
+    <artifactId>discovery-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Module7-discovery-server</name>
-    <description>Module7-discovery-server</description>
+    <name>discovery-server</name>
+    <description>discovery-server</description>
     <url/>
     <licenses>
         <license/>
